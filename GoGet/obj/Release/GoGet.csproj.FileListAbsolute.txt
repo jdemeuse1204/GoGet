@@ -1,5 +1,4 @@
 C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet\bin\Release\GoGet.dll
 C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet\bin\Release\GoGet.pdb
-C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet\obj\Release\GoGet.csprojResolveAssemblyReference.cache
 C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet\obj\Release\GoGet.dll
 C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet\obj\Release\GoGet.pdb
