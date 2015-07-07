@@ -78,5 +78,5 @@ var myName = Go.GetPropertyValue<string>(myClass,"MyNameField.MyNameField");
 var myName = Go.GetPropertyValue<string>(myClass,"MyProperty.MyNameField");
 
 ```
-**NOTE: When retrieving a PropertyValue or FieldValue, if nothing is found, default(T) is returned
+**NOTE: When retrieving a PropertyValue or FieldValue, if nothing is found, default(T) is returned<br/><br/>
 Mail To - james.demeuse@gmail.com
