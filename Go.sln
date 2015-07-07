@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGet", "GoGet\GoGet.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGet.Console", "GoGet.Console\GoGet.Console.csproj", "{9BA01E8D-B1E9-4BA7-BF93-17B230FED349}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoGet.Tests", "GoGet.Tests\GoGet.Tests.csproj", "{E682D2FD-481A-44D1-8D1D-DC3D9366D1A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9BA01E8D-B1E9-4BA7-BF93-17B230FED349}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA01E8D-B1E9-4BA7-BF93-17B230FED349}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA01E8D-B1E9-4BA7-BF93-17B230FED349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E682D2FD-481A-44D1-8D1D-DC3D9366D1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E682D2FD-481A-44D1-8D1D-DC3D9366D1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E682D2FD-481A-44D1-8D1D-DC3D9366D1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E682D2FD-481A-44D1-8D1D-DC3D9366D1A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

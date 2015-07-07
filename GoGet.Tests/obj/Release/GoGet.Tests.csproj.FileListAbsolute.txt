@@ -1,0 +1,7 @@
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Tests\bin\Release\GoGet.Tests.dll
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Tests\bin\Release\GoGet.Tests.pdb
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Tests\bin\Release\GoGet.dll
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Tests\bin\Release\GoGet.pdb
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Tests\obj\Release\GoGet.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Tests\obj\Release\GoGet.Tests.dll
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Tests\obj\Release\GoGet.Tests.pdb

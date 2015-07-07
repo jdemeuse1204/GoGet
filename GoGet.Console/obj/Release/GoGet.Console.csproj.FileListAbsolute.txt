@@ -1,1 +1,8 @@
 C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\bin\Release\GoGet.Console.exe.config
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\bin\Release\GoGet.Console.exe
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\bin\Release\GoGet.Console.pdb
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\bin\Release\GoGet.dll
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\bin\Release\GoGet.pdb
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\obj\Release\GoGet.Console.csprojResolveAssemblyReference.cache
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\obj\Release\GoGet.Console.exe
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\obj\Release\GoGet.Console.pdb
