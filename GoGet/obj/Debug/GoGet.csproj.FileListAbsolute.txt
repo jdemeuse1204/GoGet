@@ -1,0 +1,5 @@
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet\bin\Debug\GoGet.dll
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet\bin\Debug\GoGet.pdb
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet\obj\Debug\GoGet.csprojResolveAssemblyReference.cache
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet\obj\Debug\GoGet.dll
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet\obj\Debug\GoGet.pdb

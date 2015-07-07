@@ -1,0 +1,11 @@
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet.Console\bin\Debug\GoGet.Console.exe.config
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet.Console\bin\Debug\GoGet.Console.exe
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet.Console\bin\Debug\GoGet.Console.pdb
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet.Console\bin\Debug\GoGet.dll
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet.Console\bin\Debug\GoGet.pdb
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet.Console\obj\Debug\GoGet.Console.csprojResolveAssemblyReference.cache
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet.Console\obj\Debug\GoGet.Console.exe
+c:\Users\jdemeuse\documents\visual studio 2013\Projects\Go\GoGet.Console\obj\Debug\GoGet.Console.pdb
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\bin\Debug\GoGet.Console.exe.config
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\obj\Debug\GoGet.Console.exe
+C:\Users\jdemeuse\Documents\GitHub\GoGet\GoGet.Console\obj\Debug\GoGet.Console.pdb
